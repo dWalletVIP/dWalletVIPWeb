@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-noselect=""
+   viewBox="0 0 128 128"
+   width="128"
+   height="128"
+   preserveAspectRatio="none"
+   version="1.1"
+   class="svg-canvas"
+   id="svg59"
+   sodipodi:docname="dwallet.vip.ico.svg"
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview61"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:zoom="1.9186164"
+     inkscape:cx="182.68373"
+     inkscape:cy="64.369303"
+     inkscape:window-width="1848"
+     inkscape:window-height="1009"
+     inkscape:window-x="72"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg59" />
+  <defs
+     id="defs2" />
+  <path
+     d="M 65.003615,14 C 44.560122,14 28,30.486476 28,50.839052 c 0,20.352576 16.560122,36.839051 37.003615,36.839051 20.443494,0 37.003615,-16.486475 37.003615,-36.839051 C 102.00723,30.486476 85.447109,14 65.003615,14 Z m -7.454287,8.62096 c 6.115194,0 7.097196,-4.843735 7.097196,-4.843735 l 7.141832,16.219848 C 22.420444,41.818149 54.737232,82.478865 54.737232,82.478865 18.894165,46.484133 42.015844,22.62096 57.549328,22.62096 Z m 13.614118,28.218092 -0.937367,0.533255 c -1.740822,0.977633 -3.079915,2.532962 -3.838734,4.354918 l -0.803456,2.044146 -0.803456,-2.044146 C 64.021613,53.860833 62.68252,52.34994 60.941698,51.372307 l -0.937365,-0.533255 0.75882,-0.399942 c 1.830094,-0.977634 3.25846,-2.5774 4.01728,-4.53267 l 0.803456,-1.999707 0.803456,1.999707 c 0.758819,1.910831 2.187186,3.555036 4.01728,4.53267 z m 1.294457,30.217798 c -6.115194,0 -7.097196,4.843736 -7.097196,4.843736 L 58.218875,69.680739 C 107.58679,61.815223 75.269998,21.154508 75.269998,21.154508 111.11307,57.193675 87.991388,81.05685 72.457903,81.05685 Z"
+     fill="#bc9d5d"
+     stroke-width="0"
+     id="path9" />
+  <g
+     id="shape_bZA9wR1feH"
+     transform="matrix(0.39063918,0,0,0.82527336,0.3854833,3.2662993)"
+     filter=""
+     style="opacity:1">
+    <g
+       id="g33">
+      <svg
+         version="1.1"
+         width="420"
+         height="247"
+         viewBox="0 0 420 247"
+         id="svg31">
+        <g
+           data-width="282.693215294466"
+           transform="translate(34.403392)"
+           id="g29">
+          <path
+             d="m 16.75,-24.93 4.21,4.76 -2.09,19.83 -5.2,4.72 H 0 L 0.31,1.2 h 0.03 l 2.47,-23.81 0.24,-2.32 z m -1.13,23.73 1.92,-18.15 -2.13,-2.36 H 6.06 L 3.7,1.2 h 9.32 z"
+             transform="matrix(1,0,0.12278456,1,0,137)"
+             fill="#bc9d5d"
+             stroke="#bc9d5d"
+             stroke-width="0.057"
+             data-glyph-w="39.068566470638"
+             data-glyph-h="41.1"
+             data-glyph-ascender="34.25"
+             data-glyph-descender="-6.85"
+             id="path15" />
+          <path
+             d="m 21.44,-1.58 8.08,-23.35 h 3.36 L 22.74,4.38 h -3.8 L 15.76,-17.95 8.19,4.38 H 4.38 L 0,-24.93 h 3.36 l 3.49,23.35 7.91,-23.35 h 3.36 z"
+             transform="matrix(1,0,0.12278456,1,39.068566,137)"
+             fill="#bc9d5d"
+             stroke="#bc9d5d"
+             stroke-width="0.057"
+             data-glyph-w="48.281816470638"
+             data-glyph-h="41.1"
+             data-glyph-ascender="34.25"
+             data-glyph-descender="-6.85"
+             id="path17" />
+          <path
+             d="M 22.67,4.38 H 19.32 L 17.88,-2.91 H 6.34 L 3.36,4.38 H 0 l 11.95,-29.31 h 4.94 z M 14.11,-21.99 7.64,-6.13 h 9.59 z"
+             transform="matrix(1,0,0.12278456,1,87.350383,137)"
+             fill="#bc9d5d"
+             stroke="#bc9d5d"
+             stroke-width="0.057"
+             data-glyph-w="41.671566470638"
+             data-glyph-h="41.1"
+             data-glyph-ascender="34.25"
+             data-glyph-descender="-6.85"
+             id="path19" />
+          <path
+             d="M 6.44,-24.93 3.7,1.2 H 18.05 L 16.89,4.38 H 0 l 3.08,-29.31 z"
+             transform="matrix(1,0,0.12278456,1,129.02195,137)"
+             fill="#bc9d5d"
+             stroke="#bc9d5d"
+             stroke-width="0.057"
+             data-glyph-w="38.726066470638"
+             data-glyph-h="41.1"
+             data-glyph-ascender="34.25"
+             data-glyph-descender="-6.85"
+             id="path21" />
+          <path
+             d="M 6.44,-24.93 3.7,1.2 H 18.05 L 16.89,4.38 H 0 l 3.08,-29.31 z"
+             transform="matrix(1,0,0.12278456,1,167.74802,137)"
+             fill="#bc9d5d"
+             stroke="#bc9d5d"
+             stroke-width="0.057"
+             data-glyph-w="38.726066470638"
+             data-glyph-h="41.1"
+             data-glyph-ascender="34.25"
+             data-glyph-descender="-6.85"
+             id="path23" />
+          <path
+             d="m 20.38,-24.93 -0.34,3.22 H 6.1 l -1,9.41 h 12.33 l -0.34,3.22 H 4.76 L 3.7,1.2 H 18.05 L 16.89,4.38 H 0 l 1.4,-13.46 0.35,-3.22 0.99,-9.41 0.34,-3.22 z"
+             transform="matrix(1,0,0.12278456,1,206.47408,137)"
+             fill="#bc9d5d"
+             stroke="#bc9d5d"
+             stroke-width="0.057"
+             data-glyph-w="38.760316470638"
+             data-glyph-h="41.1"
+             data-glyph-ascender="34.25"
+             data-glyph-descender="-6.85"
+             id="path25" />
+          <path
+             d="M 0.34,-24.93 H 21 l -0.35,3.22 H 11.99 L 9.25,4.38 H 5.89 L 8.63,-21.71 H 0 Z"
+             transform="matrix(1,0,0.12278456,1,245.2344,137)"
+             fill="#bc9d5d"
+             stroke="#bc9d5d"
+             stroke-width="0.057"
+             data-glyph-w="37.458816470638"
+             data-glyph-h="41.1"
+             data-glyph-ascender="34.25"
+             data-glyph-descender="-6.85"
+             id="path27" />
+        </g>
+      </svg>
+    </g>
+  </g>
+  <g
+     id="shape_KGivLP6lOk"
+     transform="matrix(0.2322581,0,0,0.37535405,82.332746,13.727875)"
+     filter=""
+     style="opacity:1">
+    <g
+       id="g46">
+      <svg
+         version="1.1"
+         width="323.39999"
+         height="398.10001"
+         viewBox="0 0 323.4 398.1"
+         id="svg44">
+        <g
+           data-width="101.18774358801599"
+           transform="translate(55.756128)"
+           id="g42">
+          <path
+             d="m 16.92,-6.38 h 5.84 L 39.13,-44.97 H 33.16 L 19.84,-13.62 6.54,-44.97 h -6 z"
+             transform="translate(0,216.05)"
+             fill="#bc9d5d"
+             stroke="#bc9d5d"
+             stroke-width="0.092"
+             data-glyph-w="45.674902159547"
+             data-glyph-h="57.674267578125"
+             data-glyph-ascender="46.37724609375"
+             data-glyph-descender="-11.297021484375"
+             id="path36" />
+          <path
+             d="M 8.22,-6.38 V -44.97 H 2.7 v 38.59 z"
+             transform="translate(45.674902,216.05)"
+             fill="#bc9d5d"
+             stroke="#bc9d5d"
+             stroke-width="0.092"
+             data-glyph-w="16.918847472047"
+             data-glyph-h="57.674267578125"
+             data-glyph-ascender="46.37724609375"
+             data-glyph-descender="-11.297021484375"
+             id="path38" />
+          <path
+             d="M 18.57,-20.16 H 8.22 V -6.38 H 2.7 v -38.59 h 15.87 q 5.13,0 8.75,3.62 v 0 q 3.65,3.65 3.65,8.78 v 0 q 0,5.14 -3.65,8.79 v 0 q -3.62,3.62 -8.75,3.62 z m 0,-19.3 H 8.22 v 13.78 h 10.35 q 2.83,0 4.86,-2.02 v 0 q 2.03,-2 2.03,-4.87 v 0 q 0,-2.86 -2.03,-4.86 v 0 q -2.03,-2.03 -4.86,-2.03 z"
+             transform="translate(62.59375,216.05)"
+             fill="#bc9d5d"
+             stroke="#bc9d5d"
+             stroke-width="0.092"
+             data-glyph-w="38.593993956422"
+             data-glyph-h="57.674267578125"
+             data-glyph-ascender="46.37724609375"
+             data-glyph-descender="-11.297021484375"
+             id="path40" />
+        </g>
+      </svg>
+    </g>
+  </g>
+  <defs
+     id="defs55">
+    <pattern
+       id="wm_tile"
+       x="0"
+       y="0"
+       width="20%"
+       height="27%"
+       patternunits="objectBoundingBox">
+      <g
+         id="wm_lm"
+         transform="translate(-188.000000, -323.000000)"
+         fill="#cccccc">
+        <text
+           font-size="15"
+           transform="translate(270.490979, 373.245789) rotate(-390.000000) translate(-270.490979, -373.245789)"
+           id="text51"><tspan
+             x="187.490979"
+             opacity=".3"
+             y="378.245789"
+             id="tspan49">copyright © copyright © </tspan></text>
+      </g>
+    </pattern>
+  </defs>
+</svg>
